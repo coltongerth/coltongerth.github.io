@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/colton-gerth/static/css/main.c5305b09.css",
+    "main.js": "/colton-gerth/static/js/main.ce32ac27.js",
+    "static/media/github-logo.png": "/colton-gerth/static/media/github-logo.987334e9f782cc505f25.png",
+    "index.html": "/colton-gerth/index.html",
+    "main.c5305b09.css.map": "/colton-gerth/static/css/main.c5305b09.css.map",
+    "main.ce32ac27.js.map": "/colton-gerth/static/js/main.ce32ac27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5305b09.css",
+    "static/js/main.ce32ac27.js"
+  ]
+}
