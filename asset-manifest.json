@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/colton-gerth/static/css/main.c5305b09.css",
-    "main.js": "/colton-gerth/static/js/main.ce32ac27.js",
-    "static/media/github-logo.png": "/colton-gerth/static/media/github-logo.987334e9f782cc505f25.png",
-    "index.html": "/colton-gerth/index.html",
-    "main.c5305b09.css.map": "/colton-gerth/static/css/main.c5305b09.css.map",
-    "main.ce32ac27.js.map": "/colton-gerth/static/js/main.ce32ac27.js.map"
+    "main.css": "/static/css/main.c5305b09.css",
+    "main.js": "/static/js/main.e0a606a3.js",
+    "static/media/github-logo.png": "/static/media/github-logo.987334e9f782cc505f25.png",
+    "index.html": "/index.html",
+    "main.c5305b09.css.map": "/static/css/main.c5305b09.css.map",
+    "main.e0a606a3.js.map": "/static/js/main.e0a606a3.js.map"
   },
   "entrypoints": [
     "static/css/main.c5305b09.css",
-    "static/js/main.ce32ac27.js"
+    "static/js/main.e0a606a3.js"
   ]
 }
