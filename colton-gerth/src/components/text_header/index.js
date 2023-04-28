@@ -15,7 +15,7 @@ export default function TextHeader(item) {
           scale: 1.05
         }}
         >
-        {item.text} 
+        {item.text}
         </motion.h1>
     );
   }
